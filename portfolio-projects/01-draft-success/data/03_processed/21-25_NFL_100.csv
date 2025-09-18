@@ -1,0 +1,501 @@
+year,player,position,draft_round
+2021,1,Patrick Mahomes,Quarterback,1
+2021,2,Aaron Donald,Defensive tackle,1
+2021,3,Aaron Rodgers,Quarterback,1
+2021,4,Derrick Henry,Running back,2
+2021,5,Travis Kelce,Tight end,3
+2021,6,Davante Adams,Wide receiver,2
+2021,7,Tom Brady,Quarterback,6
+2021,8,DeAndre Hopkins,Wide receiver,1
+2021,9,T. J. Watt,Outside linebacker,1
+2021,10,Josh Allen,Quarterback,1
+2021,11,Stefon Diggs,Wide receiver,5
+2021,12,Russell Wilson,Quarterback,3
+2021,13,Jalen Ramsey,Cornerback,1
+2021,14,Alvin Kamara,Running back,3
+2021,15,Tyreek Hill,Wide receiver,5
+2021,16,Myles Garrett,Defensive end,1
+2021,17,Xavien Howard,Cornerback,2
+2021,18,Deshaun Watson,Quarterback,1
+2021,19,Budda Baker,Free safety,2
+2021,20,Dalvin Cook,Running back,2
+2021,21,Fred Warner,Linebacker,3
+2021,22,DK Metcalf,Wide receiver,2
+2021,23,Khalil Mack,Outside linebacker,1
+2021,24,Lamar Jackson,Quarterback,1
+2021,25,Bobby Wagner,Middle linebacker,2
+2021,26,Nick Chubb,Running back,2
+2021,27,DeForest Buckner,Defensive tackle,1
+2021,28,Devin White,Linebacker,1
+2021,29,Julio Jones,Wide receiver,1
+2021,30,Aaron Jones,Running back,5
+2021,31,Jamal Adams,Strong safety,1
+2021,32,Joey Bosa,Defensive end,1
+2021,33,Quenton Nelson,Guard,1
+2021,34,Chris Jones,Defensive tackle,2
+2021,35,Darren Waller,Tight end,6
+2021,36,David Bakhtiari,Offensive tackle,4
+2021,37,Shaquille Leonard,Outside linebacker,2
+2021,38,Marlon Humphrey,Cornerback,1
+2021,39,Kyler Murray,Quarterback,1
+2021,40,Bradley Chubb,Outside linebacker,1
+2021,41,Jaire Alexander,Cornerback,1
+2021,42,Trent Williams,Offensive tackle,1
+2021,43,Lavonte David,Linebacker,2
+2021,44,Christian McCaffrey,Running back,1
+2021,45,Justin Simmons,Free safety,3
+2021,46,Cameron Jordan,Defensive end,1
+2021,47,Stephon Gilmore,Cornerback,1
+2021,48,Mike Evans,Wide receiver,1
+2021,49,J. C. Jackson,Cornerback,Undrafted
+2021,50,George Kittle,Tight end,5
+2021,51,Za'Darius Smith,Outside linebacker,4
+2021,52,Minkah Fitzpatrick,Free safety,1
+2021,53,Justin Jefferson,Wide receiver,1
+2021,54,Grady Jarrett,Defensive tackle,5
+2021,55,Keenan Allen,Wide receiver,3
+2021,56,Justin Herbert,Quarterback,1
+2021,57,Cameron Heyward,Defensive tackle,1
+2021,58,Tyrann Mathieu,Safety,3
+2021,59,Jason Pierre-Paul,Outside linebacker,1
+2021,60,Corey Linsley,Center,5
+2021,61,Chase Young,Defensive end,1
+2021,62,A. J. Brown,Wide receiver,2
+2021,63,Fletcher Cox,Defensive tackle,1
+2021,64,Demario Davis,Inside linebacker,3
+2021,65,Calvin Ridley,Wide receiver,1
+2021,66,J. J. Watt,Defensive end,1
+2021,67,K. J. Wright,Outside linebacker,Undrafted
+2021,68,Josh Jacobs,Running back,1
+2021,69,Ryan Kelly,Center,1
+2021,70,Eric Kendricks,Linebacker,2
+2021,71,Baker Mayfield,Quarterback,1
+2021,72,Michael Thomas,Wide receiver,2
+2021,73,Trey Hendrickson,Defensive end,3
+2021,74,James Bradberry,Cornerback,2
+2021,75,Laremy Tunsil,Offensive tackle,1
+2021,76,Chris Godwin,Wide receiver,3
+2021,77,Allen Robinson,Wide receiver,2
+2021,78,James Conner,Running back,3
+2021,79,Leonard Williams,Defensive end,1
+2021,80,Shaquil Barrett,Outside linebacker,Undrafted
+2021,81,Ryan Tannehill,Quarterback,1
+2021,82,Brandon Scherff,Guard,1
+2021,83,Kyle Juszczyk,Fullback,4
+2021,84,Kendall Fuller,Cornerback,3
+2021,85, Darren Waller, Tight end,6
+2021,86, Darious Williams,Cornerback,Undrafted
+2021,87, Elgton Jenkins,Guard,2
+2021,88, Denzel Ward,Cornerback,1
+2021,89, Quandre Diggs,Free safety,6
+2021,90, Terron Armstead,Offensive tackle,3
+2021,91, Matthew Ioannidis,Defensive tackle,5
+2021,92, Wyatt Teller,Guard,5
+2021,93, Mike Williams,Wide receiver,1
+2021,94, Marshon Lattimore,Cornerback,1
+2021,95, Ali Marpet,Guard,2
+2021,96, Matt Ryan,Quarterback,1
+2021,97, Ryan Ramczyk,Offensive tackle,1
+2021,98, Darius Leonard,Outside linebacker,2
+2021,99, Carlton Davis,Cornerback,2
+2021,100, Jason Kelce,Center,6
+2022,1,Tom Brady,Quarterback,6
+2022,2,Aaron Donald,Defensive tackle,1
+2022,3,Aaron Rodgers,Quarterback,1
+2022,4,Cooper Kupp,Wide receiver,3
+2022,5,Jonathan Taylor,Running back,2
+2022,6,T. J. Watt,Outside linebacker,1
+2022,7,Davante Adams,Wide receiver,2
+2022,8,Patrick Mahomes,Quarterback,1
+2022,9,Jalen Ramsey,Cornerback,1
+2022,10,Travis Kelce,Tight end,3
+2022,11,Myles Garrett,Defensive end,1
+2022,12,Derrick Henry,Running back,2
+2022,13,Josh Allen,Quarterback,1
+2022,14,Trent Williams,Offensive tackle,1
+2022,15,Tyreek Hill,Wide receiver,5
+2022,16,Micah Parsons,Linebacker,1
+2022,17,Justin Jefferson,Wide receiver,1
+2022,18,Darius Shaquille Leonard,Linebacker,2
+2022,19,Deebo Samuel,Wide receiver,2
+2022,20,J. C. Jackson,Cornerback,Undrafted
+2022,21,Joe Burrow,Quarterback,1
+2022,22,George Kittle,Tight end,5
+2022,23,Trevon Diggs,Cornerback,2
+2022,24,Ja'Marr Chase,Wide receiver,1
+2022,25,Nick Bosa,Defensive end,1
+2022,26,Stefon Diggs,Wide receiver,5
+2022,27,Matthew Stafford,Quarterback,1
+2022,28,Quenton Nelson,Guard,1
+2022,29,Bobby Wagner,Middle linebacker,2
+2022,30,Joey Bosa,Defensive end,1
+2022,31,Dalvin Cook,Running back,2
+2022,32,Mark Andrews,Tight end,3
+2022,33,Nick Chubb,Running back,2
+2022,34,Kevin Byard,Safety,3
+2022,35,Keenan Allen,Wide receiver,3
+2022,36,Lamar Jackson,Quarterback,1
+2022,37,DeAnd re Hopkins,Wide receiver,1
+2022,38,Joe Mixon,Running back,2
+2022,39,Chris Jones,Defensive tackle,2
+2022,40,Justin Herbert,Quarterback,1
+2022,41,Tristan Wirfs,Offensive tackle,1
+2022,42,Cameron Heyward,Defensive tackle,1
+2022,43,Derwin James,Strong safety,1
+2022,44,Dak Prescott,Quarterback,4
+2022,45,Jordan Poyer,Strong safety,7
+2022,46,Austin Ekeler,Running back,Undrafted
+2022,47,Fred Warner,Middle linebacker,3
+2022,48,Robert Quinn,Defensive end,1
+2022,49,De'Vondre Campbell,Linebacker,4
+2022,50,Micah Hyde,Free safety,5
+2022,51,Alvin Kamara,Running back,3
+2022,52,Matthew Judon,Linebacker,5
+2022,53,Mike Evans,Wide receiver,1
+2022,54,Jeffery Simmons,Defensive tackle,1
+2022,55,Joel Bitonio,Guard,2
+2022,56,Xavien Howard,Cornerback,2
+2022,57,Kyler Murray,Quarterback,1
+2022,58,Darren Waller,Tight end,6
+2022,59,Maxx Crosby,Defensive end,4
+2022,60,Corey Linsley,Center,5
+2022,61,Russell Wilson,Quarterback,3
+2022,62,Chandler Jones,Defensive end,1
+2022,63,Jaylen Waddle,Wide receiver,1
+2022,64,Devin White,Linebacker,1
+2022,65,Derek Carr,Quarterback,2
+2022,66,DeForest Buckner,Defensive tackle,1
+2022,67,Budda Baker,Safety,2
+2022,68,Zack Martin,Guard,1
+2022,69,Cameron Jordan,Defensive end,1
+2022,70,Tyrann Mathieu,Safety,3
+2022,71,Jason Kelce,Center,6
+2022,72,Quandre Diggs,Free safety,6
+2022,73,Cordarrelle Patterson,Running back,1
+2022,74,Demario Davis,Inside linebacker,3
+2022,75,Antoine Winfield Jr.,Free safety,2
+2022,76,Brian Burns,Defensive end,1
+2022,77,Darius Slay,Cornerback,3
+2022,78,Joel Bitonio,Guard,2
+2022,79,Shaquil Barrett,Outside linebacker,Undrafted
+2022,80,Khalil Mack,Outside linebacker,1
+2022,81,Denzel Ward,Cornerback,1
+2022,82,James Conner,Running back,3
+2022,83,Leonard Williams,Defensive tackle,1
+2022,84,Shaquil Barrett,Outside linebacker,Undrafted
+2022,85,Ryan Tannehill,Quarterback,1
+2022,86,Brandon Scherff,Guard,1
+2022,87,Kyle Juszczyk,Fullback,4
+2022,88,Kendall Fuller,Cornerback,3
+2022,89,Darren Waller,Tight end,6
+2022,90,Darious Williams,Cornerback,Undrafted
+2022,91,Elgton Jenkins,Guard,2
+2022,92,Denzel Ward,Cornerback,1
+2022,93,Quandre Diggs,Free safety,6
+2022,94,Terron Armstead,Offensive tackle,3
+2022,95,Matthew Ioannidis,Defensive tackle,5
+2022,96,Wyatt Teller,Guard,5
+2022,97,Mike Williams,Wide receiver,1
+2022,98,Marshon Lattimore,Cornerback,1
+2022,99,Ali Marpet,Guard,2
+2022,100,Matt Ryan,Quarterback,1
+2023,1,Patrick Mahomes,Quarterback,1
+2023,2,Justin Jefferson,Wide receiver,1
+2023,3,Jalen Hurts,Quarterback,2
+2023,4,Nick Bosa,Defensive end,1
+2023,5,Travis Kelce,Tight end,3
+2023,6,Joe Burrow,Quarterback,1
+2023,7,Tyreek Hill,Wide receiver,5
+2023,8,Josh Allen,Quarterback,1
+2023,9,Micah Parsons,Outside linebacker,1
+2023,10,Chris Jones,Defensive tackle,2
+2023,11,Aaron Donald,Defensive tackle,1
+2023,12,Josh Jacobs,Running back,1
+2023,13,Davante Adams,Wide receiver,2
+2023,14,Trent Williams,Offensive tackle,1
+2023,15,Fred Warner,Middle linebacker,3
+2023,16,Stefon Diggs,Wide receiver,5
+2023,17,Maxx Crosby,Defensive end,4
+2023,18,Minkah Fitzpatrick,Free safety,1
+2023,19,George Kittle,Tight end,5
+2023,20,Myles Garrett,Defensive end,1
+2023,21,Austin Ekeler,Running back,Undrafted
+2023,22,A. J. Brown,Wide receiver,2
+2023,23,Sauce Gardner,Cornerback,1
+2023,24,Roquan Smith,Inside linebacker,1
+2023,25,Derrick Henry,Running back,2
+2023,26,Jaire Alexander,Cornerback,1
+2023,27,T. J. Watt,Linebacker,1
+2023,28,Dexter Lawrence,Defensive tackle,1
+2023,29,Nick Chubb,Running back,2
+2023,30,Derwin James,Strong safety,1
+2023,31,Saquon Barkley,Running back,1
+2023,32,Justin Herbert,Quarterback,1
+2023,33,Matthew Judon,Linebacker,5
+2023,34,CeeDee Lamb,Wide receiver,1
+2023,35,Christian McCaffrey,Running back,1
+2023,36,Jalen Ramsey,Cornerback,1
+2023,37,Jason Kelce,Center,6
+2023,38,Khalil Mack,Outside linebacker,1
+2023,39,Ja'Marr Chase,Wide receiver,1
+2023,40,Quinnen Williams,Defensive tackle,1
+2023,41,Lane Johnson,Offensive tackle,1
+2023,42,Kirk Cousins,Quarterback,4
+2023,43,Demario Davis,Inside linebacker,3
+2023,44,Jaylen Waddle,Wide receiver,1
+2023,45,Cameron Heyward,Defensive tackle,1
+2023,46,C. J. Mosley,Linebacker,1
+2023,47,Cooper Kupp,Wide receiver,3
+2023,48,Haason Reddick,Outside linebacker,2
+2023,49,Patrick Surtain II,Cornerback,1
+2023,50,Cameron Jordan,Defensive end,1
+2023,51,Aaron Rodgers,Quarterback,1
+2023,52,Jonathan Allen,Defensive tackle,1
+2023,53,Mike Evans,Wide receiver,1
+2023,54,Brian Burns,Outside linebacker,1
+2023,55,Tony Pollard,Running back,4
+2023,56,Dak Prescott,Quarterback,4
+2023,57,Jordan Poyer,Strong safety,7
+2023,58,Jeffery Simmons,Defensive tackle,1
+2023,59,Justin Simmons,Free safety,3
+2023,60,Trevon Diggs,Cornerback,2
+2023,61,Deebo Samuel,Wide receiver,2
+2023,62,Bobby Wagner,Middle linebacker,2
+2023,63,Grady Jarrett,Defensive end,5
+2023,64,Aaron Jones,Running back,5
+2023,65,Darius Slay,Cornerback,3
+2023,66,Jared Goff,Quarterback,1
+2023,67,Amon-Ra St. Brown,Wide receiver,4
+2023,68,Zack Martin,Guard,1
+2023,69,Matt Milano,Linebacker,5
+2023,70,Joey Bosa,Outside linebacker,1
+2023,71,DeForest Buckner,Defensive tackle,1
+2023,72,Lamar Jackson,Quarterback,1
+2023,73,Budda Baker,Safety,2
+2023,74,Garrett Wilson,Wide receiver,1
+2023,75,Trey Hendrickson,Defensive end,3
+2023,76,Tariq Woolen,Cornerback,5
+2023,77,Geno Smith,Quarterback,2
+2023,78,Talanoa Hufanga,Safety,5
+2023,79,Dre Greenlaw,Outside linebacker,5
+2023,80,Mark Andrews,Tight end,3
+2023,81,Christian Wilkins,Defensive tackle,1
+2023,82,Tua Tagovailoa,Quarterback,1
+2023,83,Terron Armstead,Offensive tackle,3
+2023,84,Za'Darius Smith,Defensive end,4
+2023,85,Laremy Tunsil,Offensive tackle,1
+2023,86,Justin Fields,Quarterback,1
+2023,87,Chris Lindstrom,Guard,2
+2023,88,Aidan Hutchinson,Defensive end,1
+2023,89,Marshon Lattimore,Cornerback,1
+2023,90,DeAndre Hopkins,Wide receiver,1
+2023,91,Dalvin Cook,Running back,2
+2023,92,Marlon Humphrey,Cornerback,1
+2023,93,Eric Kendricks,Middle linebacker,2
+2023,94,Terry McLaurin,Wide receiver,3
+2023,95,Jamaal Williams,Running back,4
+2023,96,Trevor Lawrence,Quarterback,1
+2023,97,Harrison Smith,Safety,5
+2023,98,Tristan Wirfs,Offensive tackle,1
+2023,99,DeMarcus Lawrence,Defensive end,2
+2023,100,DeVonta Smith,Wide receiver,1
+2024,1,Tyreek Hill,Wide receiver,5
+2024,2,Lamar Jackson,Quarterback,1
+2024,3,Christian McCaffrey,Running back,1
+2024,4,Patrick Mahomes,Quarterback,1
+2024,5,Myles Garrett,Defensive end,1
+2024,6,Chris Jones,Defensive tackle,2
+2024,7,Trent Williams,Offensive tackle,1
+2024,8,T. J. Watt,Linebacker,1
+2024,9,Travis Kelce,Tight end,3
+2024,10,Maxx Crosby,Defensive end,4
+2024,11,Fred Warner,Linebacker,3
+2024,12,Josh Allen,Quarterback,1
+2024,13,CeeDee Lamb,Wide receiver,1
+2024,14,George Kittle,Tight end,5
+2024,15,Jalen Hurts,Quarterback,2
+2024,16,Dak Prescott,Quarterback,4
+2024,17,Micah Parsons,Linebacker,1
+2024,18,Justin Jefferson,Wide receiver,1
+2024,19,Roquan Smith,Linebacker,1
+2024,20,C. J. Stroud,Quarterback,1
+2024,21,A. J. Brown,Wide receiver,2
+2024,22,Penei Sewell,Offensive tackle,1
+2024,23,Amon-Ra St. Brown,Wide receiver,4
+2024,24,Dexter Lawrence,Defensive tackle,1
+2024,25,Jalen Ramsey,Cornerback,1
+2024,26,Mike Evans,Wide receiver,1
+2024,27,Nick Bosa,Defensive end,1
+2024,28,Brock Purdy,Quarterback,7
+2024,29,Khalil Mack,Linebacker,1
+2024,30,Deebo Samuel,Wide receiver,2
+2024,31,DaRon Bland,Cornerback,5
+2024,32,Quincy Williams,Linebacker,3
+2024,33,Puka Nacua,Wide receiver,5
+2024,34,Jordan Love,Quarterback,1
+2024,35,Josh Hines-Allen,Linebacker,1
+2024,36,Tua Tagovailoa,Quarterback,1
+2024,37,Quinnen Williams,Defensive tackle,1
+2024,38,Sauce Gardner,Cornerback,1
+2024,39,Joe Burrow,Quarterback,1
+2024,40,Davante Adams,Wide receiver,2
+2024,41,Lane Johnson,Offensive tackle,1
+2024,42,Matthew Stafford,Quarterback,1
+2024,43,Kyle Hamilton,Safety,1
+2024,44,Demario Davis,Linebacker,3
+2024,45,Ja'Marr Chase,Wide receiver,1
+2024,46,Antoine Winfield Jr.,Safety,2
+2024,47,Aidan Hutchinson,Defensive end,1
+2024,48,Jared Goff,Quarterback,1
+2024,49,Derrick Henry,Running back,2
+2024,50,Rashan Gary,Defensive end,1
+2024,51,Keenan Allen,Wide receiver,3
+2024,52,Patrick Surtain II,Cornerback,1
+2024,53,Zack Martin,Guard,1
+2024,54,Jonathan Allen,Defensive tackle,1
+2024,55,Brian Burns,Linebacker,1
+2024,56,Stefon Diggs,Wide receiver,5
+2024,57,Justin Simmons,Safety,3
+2024,58,Christian Wilkins,Defensive tackle,1
+2024,59,Bobby Wagner,Linebacker,2
+2024,60,Raheem Mostert,Running back,Undrafted
+2024,61,Justin Madubuike,Defensive tackle,3
+2024,62,Bradley Chubb,Linebacker,1
+2024,63,Jaylen Waddle,Wide receiver,1
+2024,64,Patrick Queen,Linebacker,1
+2024,65,Jordan Poyer,Safety,7
+2024,66,Brandon Aiyuk,Wide receiver,1
+2024,67,Terron Armstead,Offensive tackle,3
+2024,68,Danielle Hunter,Defensive end,3
+2024,69,Cooper Kupp,Wide receiver,3
+2024,70,Amari Cooper,Wide receiver,1
+2024,71,Laremy Tunsil,Offensive tackle,1
+2024,72,Garrett Wilson,Wide receiver,1
+2024,73,Jeffery Simmons,Defensive tackle,1
+2024,74,Jessie Bates,Safety,2
+2024,75,Justin Herbert,Quarterback,1
+2024,76,Dre Greenlaw,Linebacker,5
+2024,77,Trey Hendrickson,Defensive end,3
+2024,78,Kyren Williams,Running back,5
+2024,79,Minkah Fitzpatrick,Safety,1
+2024,80,Sam LaPorta,Tight end,2
+2024,81,Kirk Cousins,Quarterback,4
+2024,82,Montez Sweat,Defensive end,1
+2024,83,Derwin James,Safety,1
+2024,84,DK Metcalf,Wide receiver,2
+2024,85,Tristan Wirfs,Offensive tackle,1
+2024,86,Saquon Barkley,Running back,1
+2024,87,Haason Reddick,Linebacker,2
+2024,88,Chris Lindstrom,Guard,1
+2024,89,Budda Baker,Safety,2
+2024,90,DeVonta Smith,Wide receiver,1
+2024,91,Tariq Woolen,Cornerback,5
+2024,92,Aaron Rodgers,Quarterback,1
+2024,93,Harrison Smith,Safety,2
+2024,94,Trevor Lawrence,Quarterback,1
+2024,95,Julian Love,Safety,4
+2024,96,Dion Dawkins,Offensive tackle,2
+2024,97,Terry McLaurin,Wide receiver,3
+2024,98,Cameron Heyward,Defensive tackle,1
+2024,99,Lavonte David,Linebacker,2
+2024,100,Zaire Franklin,Linebacker,Undrafted
+2025,1,Saquon Barkley,Running back,1
+2025,2,Lamar Jackson,Quarterback,1
+2025,3,Josh Allen,Quarterback,1
+2025,4,Ja'Marr Chase,Wide receiver,1
+2025,5,Patrick Mahomes,Quarterback,1
+2025,6,Joe Burrow,Quarterback,1
+2025,7,Derrick Henry,Running back,2
+2025,8,Myles Garrett,Defensive end,1
+2025,9,Justin Jefferson,Wide receiver,1
+2025,10,Patrick Surtain II,Cornerback,1
+2025,11,T. J. Watt,Linebacker,1
+2025,12,Chris Jones,Defensive tackle,2
+2025,13,Penei Sewell,Offensive tackle,1
+2025,14,Trey Hendrickson,Defensive end,3
+2025,15,Jared Goff,Quarterback,1
+2025,16,Fred Warner,Linebacker,3
+2025,17,Dexter Lawrence,Defensive tackle,1
+2025,18,Derek Stingley Jr.,Cornerback,1
+2025,19,Jalen Hurts,Quarterback,2
+2025,20,Amon-Ra St. Brown,Wide receiver,4
+2025,21,Jayden Daniels,Quarterback,1
+2025,22,Maxx Crosby,Defensive end,4
+2025,23,Lane Johnson,Offensive tackle,1
+2025,24,Brock Bowers,Tight end,1
+2025,25,Danielle Hunter,Defensive end,3
+2025,26,Zack Baun,Linebacker,3
+2025,27,Jahmyr Gibbs,Running back,1
+2025,28,Tristan Wirfs,Offensive tackle,1
+2025,29,A. J. Brown,Wide receiver,2
+2025,30,Xavier McKinney,Safety,2
+2025,31,George Kittle,Tight end,5
+2025,32,Nico Collins,Wide receiver,3
+2025,33,Josh Jacobs,Running back,1
+2025,34,Budda Baker,Safety,2
+2025,35,CeeDee Lamb,Wide receiver,1
+2025,36,Micah Parsons,Defensive end,1
+2025,37,Travis Kelce,Tight end,3
+2025,38,Nik Bonitto,Linebacker,2
+2025,39,C. J. Stroud,Quarterback,1
+2025,40,Roquan Smith,Linebacker,1
+2025,41,Puka Nacua,Wide receiver,5
+2025,42,Dion Dawkins,Offensive tackle,2
+2025,43,Jalen Carter,Defensive tackle,1
+2025,44,Mike Evans,Wide receiver,1
+2025,45,Trent Williams,Offensive tackle,1
+2025,46,Will Anderson Jr.,Defensive end,1
+2025,47,Tyreek Hill,Wide receiver,5
+2025,48,Jonathan Greenard,Linebacker,3
+2025,49,Quinyon Mitchell,Cornerback,1
+2025,50,Baker Mayfield,Quarterback,1
+2025,51,Kyle Hamilton,Safety,1
+2025,52,Terry McLaurin,Wide receiver,3
+2025,53,Jared Verse,Linebacker,2
+2025,54,Derwin James,Safety,1
+2025,55,Aidan Hutchinson,Defensive end,1
+2025,56,Justin Herbert,Quarterback,1
+2025,57,Nick Bosa,Defensive end,1
+2025,58,Joe Mixon,Running back,2
+2025,59,Matthew Stafford,Quarterback,1
+2025,60,Cooper DeJean,Cornerback,2
+2025,61,Brian Thomas Jr.,Wide receiver,1
+2025,62,Bijan Robinson,Running back,1
+2025,63,Josh Hines-Allen,Defensive end,1
+2025,64,Bo Nix,Quarterback,1
+2025,65,Trey McBride,Tight end,2
+2025,66,Jalen Ramsey,Cornerback,1
+2025,67,Malik Nabers,Wide receiver,1
+2025,68,Jordan Love,Quarterback,1
+2025,69,Jordan Mailata,Offensive tackle,Undrafted
+2025,70,Frankie Luvu,Linebacker,Undrafted
+2025,71,Kerby Joseph,Safety,3
+2025,72,Sam Darnold,Quarterback,1
+2025,73,Christian McCaffrey,Running back,1
+2025,74,Bobby Wagner,Linebacker,2
+2025,75,Patrick Queen,Linebacker,1
+2025,76,Vita Vea,Defensive tackle,1
+2025,77,Tee Higgins,Wide receiver,2
+2025,78,Khalil Mack,Linebacker,1
+2025,79,Dak Prescott,Quarterback,4
+2025,80,Rashan Gary,Defensive end,1
+2025,81,Trent McDuffie,Cornerback,1
+2025,82,Jerry Jeudy,Wide receiver,1
+2025,83,Cameron Heyward,Defensive tackle,1
+2025,84,Christian Gonzalez,Cornerback,1
+2025,85,Kyren Williams,Running back,5
+2025,86,Laremy Tunsil,Offensive tackle,1
+2025,87,Quinnen Williams,Defensive tackle,1
+2025,88,Andrew Van Ginkel,Linebacker,5
+2025,89,James Cook,Running back,2
+2025,90,Zach Allen,Defensive end,3
+2025,91,Tua Tagovailoa,Quarterback,1
+2025,92,Jessie Bates,Safety,2
+2025,93,Creed Humphrey,Center,2
+2025,94,Sam LaPorta,Tight end,2
+2025,95,Josh Sweat,Defensive end,4
+2025,96,Lavonte David,Linebacker,2
+2025,97,Drake London,Wide receiver,1
+2025,98,Aaron Jones,Running back,5
+2025,99,Leonard Williams,Defensive end,1
+2025,100,Ladd McConkey,Wide receiver,2
